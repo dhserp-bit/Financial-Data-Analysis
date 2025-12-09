@@ -45,6 +45,8 @@ $$\text{조정 영업이익} = \text{기존 영업이익} - \text{매출 감소�
 ## 6. 시각화 결과 (Visualizations)
 
 
+
+
 ![Profit Impact Chart](results/profit_impact_chart.png)
 *Figure 1. 약가 인하 시나리오별 영업이익 변화 (유한양행 적자전환 위험)*
 

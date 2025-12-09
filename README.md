@@ -38,4 +38,4 @@
     * `Matplotlib`: 데이터 시각화 (한글 폰트 적용)
 
 ## 5. 결과 시각화
-*(여기에 결과 그래프 이미지를 붙여넣으세요)*
+*(https://github.com/user-attachments/assets/24ac83ae-7f41-4a69-9d4e-10c82bf31b77)*

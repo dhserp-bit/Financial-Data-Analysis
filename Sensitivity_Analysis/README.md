@@ -37,4 +37,4 @@
     * `NumPy`: 수치 연산 및 시뮬레이션 모델링
 
 ## 5. 결과 시각화
-*(여기에 원가 변화에 따른 이익 변화 그래프나 히트맵 이미지를 넣으세요)*
+![graph](https://github.com/user-attachments/assets/9f2829a4-b464-4e46-b209-e4eb406e114d)

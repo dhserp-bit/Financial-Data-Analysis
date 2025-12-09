@@ -38,4 +38,4 @@
     * `Matplotlib`: 데이터 시각화 (한글 폰트 적용)
 
 ## 5. 결과 시각화
-*(https://github.com/user-attachments/assets/24ac83ae-7f41-4a69-9d4e-10c82bf31b77)*
+![Graph](https://github.com/user-attachments/assets/24ac83ae-7f41-4a69-9d4e-10c82bf31b77)

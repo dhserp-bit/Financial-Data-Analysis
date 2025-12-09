@@ -47,10 +47,12 @@ $$\text{조정 영업이익} = \text{기존 영업이익} - \text{매출 감소�
 
 
 
-![Profit Impact Chart](results/profit_impact_chart.png)
+![Profit Impact Chart](<img width="1189" height="790" alt="다운로드 (3)" src="https://github.com/user-attachments/assets/30b74882-0b63-47b5-bcdf-c8c4e3735b21" />
+)
 *Figure 1. 약가 인하 시나리오별 영업이익 변화 (유한양행 적자전환 위험)*
 
-![RnD Burden Chart](results/rnd_burden_chart.png)
+![RnD Burden Chart](<img width="852" height="547" alt="다운로드 (2)" src="https://github.com/user-attachments/assets/458220d2-51dc-4cf6-b18e-58dad99116c7" />
+)
 *Figure 2. 매출 감소에 따른 R&D 비용 부담률 증가*
 
 ## 7. 실행 방법 (How to Run)

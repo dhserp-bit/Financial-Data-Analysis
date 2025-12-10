@@ -67,7 +67,7 @@
 <details>
 <summary><strong>📂 1. 현대자동차 민감도 분석 표 (Source)</strong></summary>
 <br>
-<img src="assets/HMC_Sensitivity_Table_2025_3Q.png" alt="현대차 민감도" width="80%">
+<img src="assets/HMC_Sensitivity_Table_Source.png" alt="현대차 민감도" width="80%">
 <br>
 <em>설명: 환율 5% 변동 시 손익 데이터를 역산하여 순외화 자산 규모를 추정함.</em>
 </details>
@@ -83,7 +83,7 @@
 <details>
 <summary><strong>📂 3. HD현대중공업 파생상품 평가손익 (Source)</strong></summary>
 <br>
-<img src="assets/HHI_Valuation_Breakdown.png" alt="현대중공업 평가손익" width="80%">
+<img src="assets/HHI_Valuation_PL_Detail.png" alt="현대중공업 평가손익" width="80%">
 <br>
 <em>설명: 현재 평가 손실 규모를 기반으로 약정 환율(BEP) 역산.</em>
 </details>

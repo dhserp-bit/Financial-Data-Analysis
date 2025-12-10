@@ -61,6 +61,34 @@
 
 <br>
 
+## 🧐 분석 근거 (Data Evidence)
+**"API 한계를 극복하기 위해 직접 수집한 DART 주석 원본 데이터입니다."** (클릭하여 펼치기)
+
+<details>
+<summary><strong>📂 1. 현대자동차 민감도 분석 표 (Source)</strong></summary>
+<br>
+<img src="assets/HMC_Sensitivity_Table_2025_3Q.png" alt="현대차 민감도" width="80%">
+<br>
+<em>설명: 환율 5% 변동 시 손익 데이터를 역산하여 순외화 자산 규모를 추정함.</em>
+</details>
+
+<details>
+<summary><strong>📂 2. HD현대중공업 파생상품 체결 내역 (Source)</strong></summary>
+<br>
+<img src="assets/HHI_Derivatives_Contract.png" alt="현대중공업 체결내역" width="80%">
+<br>
+<em>설명: 141억 달러 규모의 선물환 매도 포지션 확인 (리스크 시뮬레이션 기초 데이터).</em>
+</details>
+
+<details>
+<summary><strong>📂 3. HD현대중공업 파생상품 평가손익 (Source)</strong></summary>
+<br>
+<img src="assets/HHI_Valuation_Breakdown.png" alt="현대중공업 평가손익" width="80%">
+<br>
+<em>설명: 현재 평가 손실 규모를 기반으로 약정 환율(BEP) 역산.</em>
+</details>
+
+<br>
 ---
 
 ## 4. 🖼️ 결과 시각화 (Result)

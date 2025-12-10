@@ -4,7 +4,11 @@
 
 > **정부의 외환 시장 개입 명분과 기업별 대응 전략(Long vs Hedge) 데이터 검증**
 
-<img src="https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Financial_Analysis-DART_Parsing-orange"/> <img src="https://img.shields.io/badge/Visualization-Matplotlib-11557c"/>
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YourID/YourRepo/blob/main/FX_Risk_Simulation.ipynb)
+
+<img src="https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Financial_Analysis-DART_Parsing-orange"/>
+<img src="https://img.shields.io/badge/Visualization-Matplotlib-11557c"/>
 
 </div>
 
@@ -73,9 +77,10 @@
 | Category | Tech | Description |
 | :--- | :--- | :--- |
 | **Language** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | Python 3.10+ |
+| **Environment**| **Jupyter** | Google Colab / Jupyter Notebook (.ipynb) |
 | **Data Source** | **DART** | 금융감독원 전자공시시스템 (주석 데이터) |
 | **Libraries** | `Pandas` | 데이터 프레임 구성 및 수치 연산 |
-| | `Matplotlib` | 시나리오별 스트레스 테스트 시각화 (한글 폰트 적용) |
+| | `Matplotlib` | 시나리오별 스트레스 테스트 시각화 |
 
 <br>
 
@@ -83,8 +88,30 @@
 
 ```bash
 FX-Risk-Simulation/
-├── FX_Risk_Simulation.py     # 🐍 데이터 역산 로직 및 시각화 메인 코드
+├── FX_Risk_Simulation.ipynb  # 📓 데이터 역산 로직 및 시각화 (Main Analysis)
 ├── README.md                 # 📄 프로젝트 명세서
 ├── requirements.txt          # 📦 필요 라이브러리 목록
 ├── results/                  # 📊 분석 결과 그래프 (이미지 저장소)
 └── assets/                   # 📑 근거 자료 (DART 주석 캡처 원본)
+```
+<br>
+
+## 7. 🚀 설치 및 실행 (How to Run)
+이 프로젝트는 Jupyter Notebook (.ipynb) 환경에서 작성되었습니다. 아래 두 가지 방법 중 하나로 실행해 보실 수 있습니다.
+
+방법 1: Google Colab에서 바로 실행 (추천)
+상단의 [Open In Colab] 배지를 클릭하면 별도의 설치 없이 웹에서 바로 코드를 실행하고 그래프를 확인할 수 있습니다.
+
+방법 2: 로컬 환경에서 실행
+GitHub 저장소를 복제(Clone)한 후, 아래 명령어를 순서대로 입력하세요.
+
+1. 라이브러리 설치
+
+```bash
+pip install -r requirements.txt
+```
+2. 주피터 노트북 실행
+
+```Bash
+jupyter notebook FX_Risk_Simulation.ipynb
+```
